@@ -44,10 +44,13 @@ Use cases:
 📌 Requirements
 -Python 3.9+
 -Telegram Bot Token : You can get @BotFather.
+
 -Google Gemini API Key
 
 🤝 Contributing
 Contributions are welcome! You can:
 Open a pull request
+
 Create an issue
+
 Suggest new features
